@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Learning how things work has always been my biggest passion. Deep RL is on the top of my list of things to learn because I want to contribute to AI safety.
 
 ### Contact me
 
