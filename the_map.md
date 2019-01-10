@@ -4,8 +4,10 @@ title: The map
 permalink: /the_map/
 ---
 
-Learning how things work has always been my biggest passion. Deep RL is on the top of my list of things to learn because I want to contribute to AI safety.
+To not get lost during the journey, I need a "map" as a guidance. Fortunately there are some really helpful online resources that suggest good paths to study Deep RL. The following resources play very important roles in creating such a map.
 
-### Contact me
+[OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)  
+[Deep Learning book](https://www.deeplearningbook.org/)  
+[Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
 
-[email@domain.com](mailto:email@domain.com)
+A big shout-out to the contributors and authors of those resources! By combining the paths suggested in the above resources, I created the map below.
