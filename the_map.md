@@ -10,4 +10,4 @@ To not get lost during the journey, I need a "map" as a guidance. Fortunately th
 [Deep Learning book](https://www.deeplearningbook.org/)  
 [Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
 
-A big shout-out to the contributors and authors of those resources! By combining the paths suggested in the above resources, I created the map below.
+A big shout-out to the contributors and authors of these resources! By combining the paths suggested in the above resources, I created the map below.
