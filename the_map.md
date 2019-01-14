@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The map
+title: The Map
 permalink: /the_map/
 ---
 
